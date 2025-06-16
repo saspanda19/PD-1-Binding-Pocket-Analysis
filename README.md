@@ -67,7 +67,7 @@ Panda, S. (2025) *PD-1 Binding Pocket Analysis*. GitHub repository. Available at
 ## 📬 Contact
 
 For questions or collaborations, feel free to reach out to:  
-📧 saswatipanda@example.com  
+📧 saswatipanda099@gmail.com  
 🔗 [GitHub Profile](https://github.com/saspanda19)
 
 ---
