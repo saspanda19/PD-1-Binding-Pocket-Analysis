@@ -50,7 +50,7 @@ PD-1-Binding-Pocket-Analysis/
    - Energy minimization, NVT, NPT equilibration, and 100 ns production run.
 
 4. **Analysis**:
-   - Use Python scripts in the `scripts/` folder to extract RMSD, RMSF, and SASA.
+   - Use Python scripts in the `scripts/` folder to extract RMSD, RMSF, SASA and plotting parameters over time.
    - Generate plots using:
      ```bash
      python scripts/RMSD_RMSF_SASA.ipynb
