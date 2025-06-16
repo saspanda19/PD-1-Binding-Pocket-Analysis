@@ -14,14 +14,14 @@ To identify and evaluate potential druggable pockets in the PD-1 immune checkpoi
 - Pocket 3 emerged as the most promising target for drug design based on its rigidity and induced-fit behavior.
 
 ## 📁 Repository Structure
-
+```
 PD-1-Binding-Pocket-Analysis/
 ├── data/                  # Raw output from Fpocket
 ├── md_files/              # GROMACS simulation files
 ├── scripts/               # Python scripts for analysis and plotting
 ├── figures/               # Generated plots (RMSD, RMSF, SASA, etc.)
 └── README.md              # Project documentation
-
+```
 ## ⚙️ Tools & Technologies
 
 - **Fpocket** – Pocket detection: [Fpocket GitHub](https://github.com/Discngine/fpocket)
