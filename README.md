@@ -16,12 +16,11 @@ To identify and evaluate potential druggable pockets in the PD-1 immune checkpoi
 ## 📁 Repository Structure
 
 PD-1-Binding-Pocket-Analysis/
-├── data/ # Raw output from Fpocket
-├── md_files/ # GROMACS simulation files
-├── scripts/ # Python scripts for analysis and plotting
-├── figures/ # Generated plots (RMSD, RMSF, SASA, etc.)
-└── README.md # Project documentation
-
+├── data/                  # Raw output from Fpocket
+├── md_files/              # GROMACS simulation files
+├── scripts/               # Python scripts for analysis and plotting
+├── figures/               # Generated plots (RMSD, RMSF, SASA, etc.)
+└── README.md              # Project documentation
 
 ## ⚙️ Tools & Technologies
 
