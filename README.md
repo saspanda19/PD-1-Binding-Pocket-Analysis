@@ -27,6 +27,7 @@ PD-1-Binding-Pocket-Analysis/
 - **Fpocket** – Pocket detection: [Fpocket GitHub](https://github.com/Discngine/fpocket)
 - **GROMACS 2024** – Molecular dynamics simulations: [GROMACS Website](https://www.gromacs.org)
 - **Python (pandas, matplotlib)** – Data parsing, analysis, and visualization
+- **VMD** – Structure visualization
 
 ## 📊 Key Results
 
