@@ -54,6 +54,7 @@ PD-1-Binding-Pocket-Analysis/
    - Generate plots using:
      ```bash
      python scripts/RMSD_RMSF_SASA.ipynb
+     python scripts/Plotting Parameter over time.ipynb
      ```
 
 ## 🧾 Citation
