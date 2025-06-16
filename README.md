@@ -53,9 +53,7 @@ PD-1-Binding-Pocket-Analysis/
    - Use Python scripts in the `scripts/` folder to extract RMSD, RMSF, and SASA.
    - Generate plots using:
      ```bash
-     python scripts/plot_rmsd.py
-     python scripts/plot_rmsf.py
-     python scripts/plot_sasa.py
+     python scripts/RMSD_RMSF_SASA.ipynb
      ```
 
 ## 🧾 Citation
